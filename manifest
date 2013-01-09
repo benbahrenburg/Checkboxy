@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2013 by Your Company
+
+
+# these should not be edited
+name: Checkbox
+moduleid: bencoding.checkbox
+guid: a0760f8f-da6e-4511-9602-a257378cdf5a
+platform: iphone
+minsdk: 3.0.0.GA
